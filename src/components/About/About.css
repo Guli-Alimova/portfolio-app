@@ -1,0 +1,31 @@
+.about-who{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 1.9rem;
+    color: red;
+}
+
+.about-line{
+    display: inline-block;
+    width: 5rem;
+    height: 0.3rem;
+    background: red;
+    margin:5px;
+}
+.about-me{
+ font-style: normal;
+font-weight: 700;
+font-size: 1.4rem;
+line-height: 1.9rem;
+color: #fff;
+margin-top: 1.6rem;
+}
+.about-title{
+font-style: normal;
+font-weight: 700;
+font-size: 2.4rem;
+line-height: 2.9rem;
+color: #fff;
+margin-top: 1.6rem;
+}
