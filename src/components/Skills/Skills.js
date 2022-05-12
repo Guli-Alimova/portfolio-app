@@ -24,7 +24,7 @@ flex-wrap:wrap;
 const Skill = ()=>{
 
     return(
-        <SkillSection >
+        <SkillSection id="skill" >
         <Container>
         <div className='about-main'>
             <span className='about-who'>What I do</span>
@@ -39,9 +39,13 @@ const Skill = ()=>{
             <div className="skills-card"><img src="/img/sass-logo-E41E7734A8-seeklogo.com.png" alt="sass" style={{width:"100%" , height:"100%"}}/></div>
             <div className="skills-card"><img src="/img/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="bootstrap" style={{width:"100%" , height:"100%"}}/></div>
             <div className="skills-card"><img src="/img/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="mui" style={{width:"100%" , height:"100%"}} /></div>
-            <div className="skills-card"><img src="/img/Без названия.png" alt="ant" style={{width:"100%" , height:"100%"}} /></div>
-            <div className="skills-card"><img src="/img/bem.png" alt="bootstrap" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
-          
+            <div className="skills-card"><img src="/img/git1.png" alt="git" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/bem.png" alt="bem" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/vercel1.png" alt="vercel" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/github2.png" alt="github" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/figma.png" alt="figma" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/netlify.avif" alt="netlify" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            
         </SkillsBox>
           
         </Container>

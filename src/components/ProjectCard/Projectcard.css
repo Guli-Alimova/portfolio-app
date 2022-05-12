@@ -60,5 +60,39 @@
     opacity: 1;
     height: 82%;
   }
+  @media (max-width: 1199px) {
+    .card {
+      
+      width: 416px;
+ 
+  
+    }
+  
+}
+
+  @media (max-width: 991px) {
+    .card {
+      
+      width: 280px;
+ 
+  
+    }
+  
+}
+@media (max-width: 767px){
+    .card {
+    width: 452px;
+}
+}
+@media (max-width: 565px){
+  .card {
+  width: 380px;
+}
+}
+@media (max-width: 480px){
+  .card {
+  width: 260px;
+}
+}
 
   

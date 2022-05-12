@@ -65,10 +65,10 @@ const Home = () => {
             retina_detect: true
         }}      
         />
-             <Intro/>
-            <About/>
-            <Skill/>
-            <Portfolio/>
+             <Intro />
+            <About id="about"/>
+            <Skill id="skill"/>
+            <Portfolio id="myproject"/>
         </div>
           
        

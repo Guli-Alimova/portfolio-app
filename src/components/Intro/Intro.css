@@ -16,3 +16,46 @@
     color:crimson;
     font-weight: 500px;
 }
+.intro__photo{
+    width:300px;
+}
+
+@media (max-width: 991px) {
+    .intro__text1{
+        font-size: 68px;;
+    }
+    .intro__text2{
+        font-size:35px;
+   
+    }
+  
+}
+@media (max-width: 767px) {
+    .intro__photo{
+        width: 235px;
+        height: 235px;
+    }
+    .intro__text1{
+        font-size: 46px;;
+    }
+    .intro__text2{
+        font-size:26px;
+   
+    }
+  
+}
+
+@media (max-width: 565px) {
+    .intro__photo{
+        width: 200px;
+        height: 200px;
+    }
+    .intro__text1{
+        font-size: 36px;;
+    }
+    .intro__text2{
+        font-size:22px;
+   
+    }
+  
+}

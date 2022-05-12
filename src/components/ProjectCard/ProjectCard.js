@@ -1,6 +1,5 @@
-
 import React from 'react'
-import Projectcard from "../ProjectCard/Projectcard.css";
+import "../ProjectCard/Projectcard.css"
 
 const ProjectCard = ({projectobj}) => {
     return (

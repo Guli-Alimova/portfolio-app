@@ -6,6 +6,7 @@ import  {Projects} from "../../db";
 import ProjectCard from '../../components/ProjectCard/ProjectCard';
 
 
+
 const PortfolioSection = styled.section`
 padding:50px 0;
 background-color:#212121;
@@ -19,11 +20,11 @@ line-height: 2.9rem;
 color: #fff;
 margin-top: 1.6rem;
 `
-const Portfolio = () => {
+const  Portfolio= () => {
     // const [project, setproject]=useState()
     return (
         <div>
-            <PortfolioSection>
+            <PortfolioSection id="myproject">
                 <Container>
             <div className='about-main'>
             <span className='about-who'>My Project</span>

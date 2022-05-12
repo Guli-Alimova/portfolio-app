@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 
 const IntroSection = styled.section`
-padding:117px 0 70px 0px;
+padding:200px 0 70px 0px;
 display: flex;
 background-color:#212121;
 color:#fff;
@@ -25,7 +25,7 @@ const Intro = () => {
                 <div className="intro__text2">And I'm a <span className="intro__text3">Frontend Developer</span></div>   
                 </IntroLeft>
                 <div className="intro__right">
-                    <img src="/img/images (2).jpeg" width="300px" height="300px" alt="muslim"/>
+                    <img className='intro__photo' src="/img/images (2).jpeg" width="300px" height="300px" alt="muslim"/>
                 </div>     
                 </Row>
             </Container>

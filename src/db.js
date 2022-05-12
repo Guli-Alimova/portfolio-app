@@ -9,7 +9,7 @@ export const Projects = [
 {
     "id":2,
     "poster":"https://sunnyside-chi.vercel.app/",
-    "title":"Sinnyside",
+    "title":"Sunnyside",
     "photo":"/img/Sunnyside.png",
 },
 {
