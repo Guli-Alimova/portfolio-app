@@ -12,6 +12,11 @@ color:#fff;
 
 `
 const IntroLeft = styled.div`
+@media (max-width: 480px) {
+  padding:20px 0;
+order:2;
+margin:0 auto;
+ }
 
 `
 const Intro = () => {

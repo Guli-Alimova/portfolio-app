@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import React from 'react'
-import Skills from "./Skills.css";
+import React from 'react';
+import Scill from "./Scill.css";
 import { Container } from "../../styled";
 
 const SkillSection = styled.section`

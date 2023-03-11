@@ -1,6 +1,5 @@
 .header{
     background-color: #060709; 
-    padding:10px;
     position: fixed;
     width: 100%;
     left:0;
@@ -19,12 +18,7 @@
 }
 
 
-@media (max-width: 1199px) {
-    .header{
-        width: 98%;
-    }
-  
-}
+
 
 @media (max-width: 565px) {
     .header-links{

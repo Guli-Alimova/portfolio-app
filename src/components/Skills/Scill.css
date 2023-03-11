@@ -22,3 +22,9 @@
     background: red;
     margin:5px;
 }
+
+@media (max-width: 480px){
+    .about-main{
+        margin:0 auto;
+    }
+}
