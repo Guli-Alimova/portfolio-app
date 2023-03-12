@@ -63,9 +63,7 @@
   @media (max-width: 1199px) {
     .card {
       
-      width: 416px;
- 
-  
+      width: 373px;
     }
   
 }
@@ -73,26 +71,24 @@
   @media (max-width: 991px) {
     .card {
       
-      width: 280px;
- 
-  
+      width: 300px;
     }
   
 }
 @media (max-width: 767px){
     .card {
-    width: 452px;
-}
+    width: 100%;
+} 
 }
 @media (max-width: 565px){
   .card {
-  width: 380px;
+  width: 100%;
 }
 }
-@media (max-width: 480px){
+/* @media (max-width: 480px){
   .card {
   width: 260px;
 }
-}
+} */
 
   

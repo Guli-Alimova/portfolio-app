@@ -30,7 +30,7 @@ const Header = () => {
 
     return (
         <div className="header">
-            <Container>
+            <Container width="0">
             <div className="header-main">
              
             <div className="header-logo">

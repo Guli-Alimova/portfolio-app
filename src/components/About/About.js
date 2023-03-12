@@ -11,16 +11,15 @@ background-color:#212121;
 `
 const AboutImg = styled.div`
 flex:1;
-@media (max-width: 4800px){
- margin:0 auto;
+@media (max-width: 565px){
+
  padding-bottom:20px;
 } 
 `
 const AboutText = styled.div`
 flex:2;
-@media (max-width: 1199px) {
-   margin-left:20px;
-}
+
+
 
 `
 const AboutPhoto = styled.img`
@@ -31,13 +30,13 @@ height:300px;
 width:285px
  }
  @media (max-width: 565px) {
-    width:200px;
-    height:257px;
-     }
-@media (max-width: 4800px){
     width:300px;
     height:300px;
-} 
+}
+ @media (max-width: 355px) {
+    width:230px;
+    height:230px;
+         }
 
 `
 

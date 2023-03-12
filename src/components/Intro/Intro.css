@@ -61,11 +61,6 @@
 }
 @media (max-width: 480px) {
 
-   .intro__right{
-    order:1;
-
-       
-   }  
    .intro__photo{
     width: 300px;
     height: 300px;

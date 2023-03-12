@@ -29,9 +29,7 @@ const Intro = () => {
                 <div className="intro__text1">Gulbakhor Alimova</div>
                 <div className="intro__text2">And I'm a <span className="intro__text3">Frontend Developer</span></div>   
                 </IntroLeft>
-                <div className="intro__right">
-                    <img className='intro__photo' src="/img/images (2).jpeg" width="300px" height="300px" alt="muslim"/>
-                </div>     
+              
                 </Row>
             </Container>
         </IntroSection>
