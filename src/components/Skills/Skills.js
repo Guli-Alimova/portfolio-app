@@ -45,6 +45,7 @@ const Skill = ()=>{
             <div className="skills-card"><img src="/img/github2.png" alt="github" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
             <div className="skills-card"><img src="/img/figma.png" alt="figma" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
             <div className="skills-card"><img src="/img/netlify.avif" alt="netlify" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
+            <div className="skills-card"><img src="/img/vue.png" alt="" style={{width:"100%" , height:"100%", borderRadius:"50%"}}/></div>
             
         </SkillsBox>
           

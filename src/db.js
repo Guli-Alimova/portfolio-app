@@ -74,4 +74,18 @@ export const Projects = [
     "photo":"/img/Cargi.png",
 },
 
+{
+    "id":13,
+    "poster":"https://yoshsaylovchi2021.vercel.app/",
+    "title":"Yosh Saylovchi 2021",
+    "photo":"/img/2023-03-12 221532.png"
+
+},
+{
+    "id":14,
+    "poster":"https://interyer.vercel.app/",
+    "title":"Interno",
+    "photo":"/img/2023-03-12 221905.png"
+}
+
 ] 
